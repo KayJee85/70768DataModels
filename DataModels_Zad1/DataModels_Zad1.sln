@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "DataModels_Zad1", "DataModels_Zad1\DataModels_Zad1.dwproj", "{85673CF5-E9D8-45D9-A9DB-329D50FBB714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85673CF5-E9D8-45D9-A9DB-329D50FBB714}.Development|Default.ActiveCfg = Development
+		{85673CF5-E9D8-45D9-A9DB-329D50FBB714}.Development|Default.Build.0 = Development
+		{85673CF5-E9D8-45D9-A9DB-329D50FBB714}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0A30DA8-7737-462F-A045-224CFC3CB0EF}
+	EndGlobalSection
+EndGlobal
