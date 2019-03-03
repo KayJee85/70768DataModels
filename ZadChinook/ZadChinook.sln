@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ZadChinook", "ZadChinook\ZadChinook.dwproj", "{7AB63D25-95A3-4315-9E43-9E141F6A8D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB63D25-95A3-4315-9E43-9E141F6A8D57}.Development|Default.ActiveCfg = Development
+		{7AB63D25-95A3-4315-9E43-9E141F6A8D57}.Development|Default.Build.0 = Development
+		{7AB63D25-95A3-4315-9E43-9E141F6A8D57}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34C05B35-120D-4A3F-BE6F-6F4AB8293982}
+	EndGlobalSection
+EndGlobal
