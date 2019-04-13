@@ -6,12 +6,52 @@
     <Name>ProjektZaliczeniowyWWI.database</Name>
     <FullPath>ProjektZaliczeniowyWWI.database</FullPath>
   </Database>
+  <Cubes>
+    <ProjectItem>
+      <Name>WideWorldImportersDW_CUBE.cube</Name>
+      <FullPath>WideWorldImportersDW_CUBE.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>WideWorldImportersDW_CUBE.partitions</Name>
+          <FullPath>WideWorldImportersDW_CUBE.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+  </Cubes>
+  <Dimensions>
+    <ProjectItem>
+      <Name>v Dim City.dim</Name>
+      <FullPath>v Dim City.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>v Dim Customer.dim</Name>
+      <FullPath>v Dim Customer.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>v Dim Date.dim</Name>
+      <FullPath>v Dim Date.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>v Dim Employee.dim</Name>
+      <FullPath>v Dim Employee.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>v Dim Stock Item.dim</Name>
+      <FullPath>v Dim Stock Item.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
   <DataSources>
     <ProjectItem>
       <Name>Wide World Importers DW.ds</Name>
       <FullPath>Wide World Importers DW.ds</FullPath>
     </ProjectItem>
   </DataSources>
+  <DataSourceViews>
+    <ProjectItem>
+      <Name>WideWorldImportersDW_DSV.dsv</Name>
+      <FullPath>WideWorldImportersDW_DSV.dsv</FullPath>
+    </ProjectItem>
+  </DataSourceViews>
   <Configurations>
     <Configuration>
       <Name>Development</Name>
