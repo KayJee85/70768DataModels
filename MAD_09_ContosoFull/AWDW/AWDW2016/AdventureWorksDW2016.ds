@@ -3,7 +3,7 @@
   <Name>AdventureWorksDW2016</Name>
   <CreatedTimestamp>2012-02-09T22:06:34.936667Z</CreatedTimestamp>
   <LastSchemaUpdate>2012-02-09T22:16:30.443333Z</LastSchemaUpdate>
-  <ConnectionString>Provider=SQLNCLI11.1;Data Source=ITK\DV16;Integrated Security=SSPI;Initial Catalog=AdventureworksDW2016CTP3</ConnectionString>
+  <ConnectionString>Provider=SQLNCLI11.1;Data Source=R-04;Integrated Security=SSPI;Initial Catalog=AdventureworksDW2016CTP3</ConnectionString>
   <ConnectionStringSecurity>Unchanged</ConnectionStringSecurity>
   <ImpersonationInfo>
     <ImpersonationMode>ImpersonateServiceAccount</ImpersonationMode>
